@@ -40,11 +40,11 @@ const Footer = () => {
 
         <div className="col">
           <div className="title">Categories</div>
-          <span className="text">Headphones</span>
-          <span className="text">Smarth Watches</span>
-          <span className="text">Bluetooth Speakers</span>
+          <span className="text">Veg pizza</span>
+          <span className="text">Non-veg pizza</span>
+          {/* <span className="text">Bluetooth Speakers</span>
           <span className="text">Wireless Earbuds</span>
-          <span className="text">Mobile Phones</span>
+          <span className="text">Mobile Phones</span> */}
         </div>
 
         <div className="col">
@@ -61,7 +61,7 @@ const Footer = () => {
       <div className="bottom-bar">
         <div className="bottom-bar-content">
           <div className="text">
-            SHOPPING CART 2023 CREATED BY VINAY SOLANKI E-COMMERCE SOLUTIONS.
+            SHOPPING CART 2023 CREATED BY VINAY SOLANKI.
           </div>
           <img src={Payment} alt="" />
         </div>
